@@ -8,7 +8,7 @@
 
 ---
 
-## Tech Stack
+## Tools & Tech
 #### · Languages - Python, JavaScript, C++, HTML, CSS.
 #### · Backend - Node.js, Express.js, MongoDB, Mongoose, REST APIs
 #### · Tools - Git, Github, VS Code, Postman.
