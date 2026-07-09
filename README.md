@@ -17,10 +17,10 @@
 
 ## A Bit About Me
 
-#### I like to design stuff in my free time using figma 💕.
-#### I play table tennis pretty well ✌️.
-#### Obviously listen to music while I code 🎧.
-#### Obsessed with manhwas, mangas and manhuas 🥰.
+#### · I like to design stuff in my free time using figma 💕.
+#### · I play table tennis pretty well ✌️.
+#### · Obviously listen to music while I code 🎧.
+#### · Obsessed with manhwas, mangas and manhuas 🥰.
 <!--
 **Divya-Singhal07/Divya-Singhal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
